@@ -1,0 +1,108 @@
+.elemento{
+    width: 65px;
+    height: 65px;
+    display: block;
+    float: left;
+    border: 2px solid black;
+    margin: 1px;
+    
+}
+.z{
+    width: 60px;
+    height: 10px;
+    display: block;
+    float: top;
+    padding-top: 4px;
+    padding-right: 5px;
+    margin-bottom: 2px;
+    text-align: right;
+}
+.simble{
+    width: 65px;
+    height: 10px;
+    display: block;
+    float: top;
+    text-align: center;
+    font-size: 22px;
+}
+.name{
+    width: 65px;
+    height: 10px;
+    display: block;
+    float: top;
+    text-align: center;
+    font-size: 13px;
+}
+.mace{
+    width: 65px;
+    height: 5px;
+    display: block;
+    float: top;
+    text-align: center;
+    font-size: 12px;
+}
+.tabela{
+    width: 1280px;
+    height: 700px;
+    display: block;
+}
+.f18{
+    width: 70px;
+    height:450px;
+    display: block;
+    float: left;
+    position: relative;
+}
+.repre{
+    width: 70px;
+    height: 400px;
+    display: block;
+    float: left;
+    position: relative;
+    margin-top: 70px;
+}
+.meta{
+    width: 710px;
+    height: 250px;
+    display: block;
+    float: left;
+    position: relative;
+    margin-top: 210px;
+}
+.extra{
+    width: 1065px;
+    height: 70px;
+    display: block;
+    float: right;
+    position: relative;
+}
+.cWhi{
+    background-color: white;
+}
+.cBlu{
+    background-color: lightblue;
+}
+.cRed{
+    background-color: lightcoral;
+}
+.cGre{
+    background-color: greenyellow;
+}
+.cOra{
+    background-color: orange;
+}
+.cOre{
+    background-color: orangered;
+}
+.cDbl{
+    background-color: darkcyan;
+}
+.cVio{
+    background-color: blueviolet;
+}
+.cRox{
+    background-color: purple;
+}
+.elemento:hover{
+    background-color: yellow;
+}
